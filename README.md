@@ -1,5 +1,5 @@
 # Pokemon-Rock-Paper-Scissors
-Rock paper scissors vs. a computer. Fire beats grass, grass beats water, water beats fire!
+Rock paper scissors vs. a computer. Fire beats grass, grass beats water, and water beats fire!
 
 Computer learns user guess patterns by storing those patterns into a hashmap.
 
